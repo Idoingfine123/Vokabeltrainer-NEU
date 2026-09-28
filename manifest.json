@@ -1,0 +1,16 @@
+{
+  "name": "Vokabel Trainer – Französisch lernen",
+  "short_name": "Vokabeln",
+  "description": "Deutsch ↔ Französisch Vokabeln lernen mit Karteikarten, Quiz, Speed-Runden und Statistiken.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#6366f1",
+  "theme_color": "#6366f1",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
